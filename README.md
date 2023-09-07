@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/bb.jpg"  align="center" height="200" width="1000" />
+<img src="/bb.jpg"  align="center" height="300" width="900" />
 </div>  
  
 ## My Skill Set  
