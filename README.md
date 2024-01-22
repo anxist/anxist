@@ -34,11 +34,8 @@
   <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a>  
   </div>
   
-  </td></tr></table>  
-    
-  
-  ## Github Stats  
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oofamine&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  </td></tr>
+  </table>   
   
   <br/> 
 </div>  
