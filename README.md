@@ -1,12 +1,7 @@
-<div align="center" style="position: relative">
-    <img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 200px; object-fit: cover;"/>
-    <div style="position: absolute; top: 45%; left: 55%; transform: translate(-50%, -50%); text-align: center; color: white; font-size: 36px; width: 800px;">
-        <a href="https://git.io/typing-svg" style="color: inherit; text-decoration: none;">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=36&duration=4500&pause=500&color=000000&width=800&height=60&lines=Hi%2C+I'm++Narizhnyaya+Diana!;I'm+Junior+Front-end+programmer" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-        </a>
-    </div>
-</div>
+<img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 10px; object-fit: cover;"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=42&pause=1000&color=F7F7F7&width=800&lines=Hi%2C+I'm+Diana+Narizhnyaya;+I'm+Junior+Frontend+Devoloper)](https://git.io/typing-svg)
+<img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 10px; object-fit: cover;"/>
 ## Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=orange)
