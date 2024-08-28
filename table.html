@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate Markdown Table</title>
+</head>
+<body>
+
+<script>
+    // Данные о языках
+    const languages = [
+        { name: 'Rust', time: '32 hrs 39 mins', percentage: 29.32, progress: 29.32 },
+        { name: 'Markdown', time: '19 hrs 4 mins', percentage: 17.13, progress: 17.13 },
+        { name: 'TeX', time: '10 hrs 53 mins', percentage: 9.78, progress: 9.78 },
+        { name: 'C++', time: '7 hrs 44 mins', percentage: 6.95, progress: 6.95 },
+        { name: 'text', time: '7 hrs 32 mins', percentage: 6.76, progress: 6.76 }
+    ];
+
+    // Генерация Markdown для прогресс-бара
+    function generateProgressBar(percentage) {
+        const filledLength = Math.round(percentage / 5); // 20 шагов по 5%
+        const totalLength = 20; // Общее количество символов в прогресс-баре
+        const emptyLength = totalLength - filledLength;
+
+        let progressBar = '🟩'.repeat(filledLength) + '🟨'.repeat(0) + '⬜'.repeat(emptyLength);
+        return progressBar;
+    }
+
+    // Генерация Markdown таблицы
+    function generateMarkdownTable() {
+        let table = `
+# Мой опыт в языках программирования
+
+## ⏱️ Время и процентное соотношение
+
+| 🌐 Язык      | Время              | Прогресс                                          | Процент  |
+|:------------|:-------------------:|:-------------------------------------------------:|:--------:|
+`;
+
+        languages.forEach(lang => {
+            table += `| ${lang.name}         | ${lang.time}     | ${generateProgressBar(lang.progress)}   | ${lang.percentage.toFixed(2)} %  |\n`;
+        });
+
+        console.log(table);
+    }
+
+    // Заполнить Markdown таблицу и вывести её в консоль
+    generateMarkdownTable();
+</script>
+
+</body>
+</html>
