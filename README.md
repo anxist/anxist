@@ -1,13 +1,11 @@
-# Welcome to My README
+<div align="center">
 
-<!-- Container for image and text -->
-<div style="position: relative; width: 800px; height: 200px;">
-    <img src="./img/fon.jpg" alt="photo" style="height: 200px; width: 800px; object-fit: cover;"/>
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=36&duration=4500&pause=500&color=000000&width=800&height=60&lines=Hi%2C+I'm++Narizhnyaya+Diana!;I'm+Junior+Front-end+programmer" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-        </a>
-    </div>
+![Photo](./img/fon.jpg)
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=36&duration=4500&pause=500&color=000000&width=800&height=60&lines=Hi%2C+I'm++Narizhnyaya+Diana!;I'm+Junior+Front-end+programmer" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+</a>
+
 </div>
 
 ## Technologies & Tools
