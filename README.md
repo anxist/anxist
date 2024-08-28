@@ -1,6 +1,6 @@
 <img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 10px; object-fit: cover;"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=42&pause=1000&color=F7F7F7&width=800&lines=Hi%2C+I'm+Diana+Narizhnyaya;+I'm+Junior+Frontend+Devoloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Diana+Narizhnyaya;I'm+Junior+frontend+developer)](https://git.io/typing-svg)
 <img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 10px; object-fit: cover;"/>
 ## Technologies & Tools
 
