@@ -1,7 +1,7 @@
-<img src="./img/fon.jpg" alt="photo" style="width: 80%; height: 50px; object-fit: cover;"/>
+<img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 50px; object-fit: cover;"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Diana+Narizhnyaya;I'm+Junior+frontend+developer)](https://git.io/typing-svg)
-<img src="./img/fon.jpg" alt="photo" style="width: 80%; height: 50px; object-fit: cover;"/>
+<img src="./img/fon.jpg" alt="photo" style="width: 100%; height: 50px; object-fit: cover;"/>
 ## Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=orange)
