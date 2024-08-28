@@ -1,6 +1,3 @@
-# Welcome to My README
-
-<!-- Container for image and text -->
 <div style="position: relative; width: 800px; height: 200px;">
     <img src="./img/fon.jpg" alt="photo" style="height: 200px; width: 800px; object-fit: cover;"/>
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
