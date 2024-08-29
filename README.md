@@ -11,6 +11,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![GitHub](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
 ![WebStorm](https://img.shields.io/badge/webstorm-white?style=for-the-badge&logo=webstorm&logoColor=000000)
+![Mysql](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
 
 ## Languages
 
